@@ -1,8 +1,8 @@
-// function greeting(){
-//     var name = prompt(" wt is your name ");
-//     alert ("Hi " + name + " welocome..!");
-// }
-// greeting();
+function greeting(){
+    var name = prompt(" wt is your name ");
+    alert ("Hi " + name + " welocome..!");
+}
+greeting();
 
 let input = document.getElementById('inputBox');
 let buttons = document.querySelectorAll('button');
